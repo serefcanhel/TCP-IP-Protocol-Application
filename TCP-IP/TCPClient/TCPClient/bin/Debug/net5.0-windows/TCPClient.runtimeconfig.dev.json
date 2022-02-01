@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Serefcan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Serefcan\\.nuget\\packages"
+    ]
+  }
+}

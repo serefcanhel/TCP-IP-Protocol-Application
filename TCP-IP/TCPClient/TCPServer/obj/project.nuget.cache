@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKj7JfVALypTG5kY21K29ZLk5uRFHylQ3VmyxAZvTuOPbw/ouHFzsXr1XKQPAPnpr5yC3NpTxiDNC3ch7QQcZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Serefcan\\Desktop\\Seref\\C#\\TCP-IP\\TCPClient\\TCPServer\\TCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Serefcan\\.nuget\\packages\\supersimpletcp\\2.5.0.2\\supersimpletcp.2.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

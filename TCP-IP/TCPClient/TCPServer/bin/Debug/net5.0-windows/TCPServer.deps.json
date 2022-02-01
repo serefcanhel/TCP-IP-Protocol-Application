@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TCPServer/1.0.0": {
+        "dependencies": {
+          "SuperSimpleTcp": "2.5.0.2"
+        },
+        "runtime": {
+          "TCPServer.dll": {}
+        }
+      },
+      "SuperSimpleTcp/2.5.0.2": {
+        "runtime": {
+          "lib/net5.0/SimpleTcp.dll": {
+            "assemblyVersion": "2.5.0.2",
+            "fileVersion": "2.5.0.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SuperSimpleTcp/2.5.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n9H38BWzgFafW5RV4IrNKwcfr9n2wqMZLTCvmVZN0A5sOpHZQDl+7mxWL36dgBlZgt/7hr73/jqaQ73uNJZjPg==",
+      "path": "supersimpletcp/2.5.0.2",
+      "hashPath": "supersimpletcp.2.5.0.2.nupkg.sha512"
+    }
+  }
+}
